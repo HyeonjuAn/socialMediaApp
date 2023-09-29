@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    overflow-y: auto;
+    height: 100%;
+    margin: 0;
+}
+
+html {
+    height: 100%;
+}
